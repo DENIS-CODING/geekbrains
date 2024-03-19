@@ -1,2 +1,2 @@
 # geekbrains
-DIPLOME
+DIPLOMA
